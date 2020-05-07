@@ -1,2 +1,4 @@
 first file, modification 1
 demo for conflicts
+commited already
+
